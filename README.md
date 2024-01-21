@@ -3,7 +3,7 @@
 O primeiro deafio da Trilha de Css da DIO tinha por objetivo construir uma LOanding Page com HTML e CSS, com intuiot de colocar em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas aprendidas ao longo da trilha.
 
-[Clique aqui](https://nei-junio-17.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://nei-junio-17.github.io/landing-page/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 ![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
