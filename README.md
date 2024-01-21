@@ -16,5 +16,5 @@ de estilo para que o resultado da estilização funcione.
 que você possa se basear.
 
 *Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+é necessário utilizar a propriedade -webkit-background-clip: text;.*
 
