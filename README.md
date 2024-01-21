@@ -1,6 +1,6 @@
 # Criando sua primeira Landing Page com HTML e CSS
 
-O primeiro deafio da Trilha de CSS da DIO tinha por objetivo construir uma Landing Page com HTML e CSS, com intuito de colocar em prática os fundamentos do CSS,
+O primeiro desafio da Trilha de CSS da DIO tinha por objetivo construir uma Landing Page com HTML e CSS, com intuito de colocar em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas aprendidas ao longo da trilha.
 
 [Clique aqui](https://nei-junio-17.github.io/landing-page/) para acessar o resultado final da Landing Page criada a partir do desafio!
